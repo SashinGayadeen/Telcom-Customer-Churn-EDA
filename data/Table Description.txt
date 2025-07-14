@@ -1,0 +1,21 @@
+Description
+State :All 51 states
+Account Length : How long account has been active
+Area Code : Code Number of Area
+lntl Plan : International plan activated ( yes, no )
+VMail Plan : Voice Mail plan activated ( yes ,no )
+VMail Message : No.of voice mail messages
+Day Mins : Total day minutes used
+Day calls : Total day calls made
+Day Charge : Total day charge
+Eve Mins : Total evening minutes
+Eve Calls : Total evening calls
+Eve Charge : Total evening charge
+Night Mins : Total night minutes
+Night Calls : Total night calls
+Night Charge : Total night charge
+Intl Mins : Total International minutes used
+Intl Calls : Total International calls made
+Intl Charge : Total International charge
+CustServ calls : Number of customer service calls made
+Churn : Customer churn (Target Variable True=1, False=0)
